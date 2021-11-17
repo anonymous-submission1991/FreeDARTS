@@ -62,4 +62,4 @@ Our model achieves the following performance on :
 | ------------------ |---------------- | -------------- |
 | FreeDARTS$\dagger$ |     25.4%       |       7.8%     |
 | ------------------ |---------------- | -------------- |
-| FreeDARTS$\ddagger$|     24.4%       |       7.73%    |
+| FreeDARTS$\ddagger$|     24.4%       |       7.3%    |
