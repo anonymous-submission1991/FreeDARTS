@@ -10,7 +10,7 @@ This repository is the implementation of Differentiable Architecture Search Meet
 To install requirements:
 
 ```setup
-Following DARTS and NAS-Bench-201 install requirements
+Following DARTS and NAS-Bench-201 install requirements, download NAS-Bench-201-v1_1-096897.pth from https://drive.google.com/file/d/16Y0UwGisiouVRxW-W5hEtbxmcHw_0hF_/view
 ```
 
 
