@@ -38,7 +38,7 @@ The searched architectures with 5 different seeds can be found in the DARTS_CNN/
 You can get pretrained models and log files in DARTS_CNN/trained_models
 
 
-## Results
+## Results on DARTS space
 
 Our model achieves the following performance on :
 
@@ -62,4 +62,13 @@ Our model achieves the following performance on :
 | ------------------ |---------------- | -------------- |
 | FreeDARTS$\dagger$ |     25.4%       |       7.8%     |
 | ------------------ |---------------- | -------------- |
-| FreeDARTS$\ddagger$|     24.4%       |       7.3%    |
+| FreeDARTS$\ddagger$|     24.4%       |       7.3%     |
+
+
+## Results on MobileNet space
+
+The retrained results of the seached architecture can be found in mobilenet_space/mobilenet/retrain_architecture/eval-eval_models/logs
+
+| Model name         | Top 1 Error     | Top 5 Error    |
+| ------------------ |---------------- | -------------- |
+| FreeDARTS$\ddagger$|     23.6%       |       6.9%     |
